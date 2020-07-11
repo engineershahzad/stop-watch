@@ -1,0 +1,32 @@
+h1{
+    background-color: rgb(185, 185, 204);
+    text-align: center;
+    
+    color: rgb(27, 25, 25);
+    display: inline-block;
+    width: 100px;
+}
+body{
+    display: flex;
+}
+
+.casing{
+
+    background-color: rgb(24, 108, 218) ;
+    width: 40%;
+    text-align: center ;
+    border: 1px solid maroon  ;
+    border-radius: 200px ;
+    padding: 5px ;
+    margin: 60px auto ;
+    
+}
+.name{
+    color: maroon;
+    width: 30%;
+    margin: auto;
+    background-color: rgb(206, 117, 35);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+}
